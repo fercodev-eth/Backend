@@ -203,10 +203,7 @@ Donante → donate(donor, id, amount) → Validaciones → Actualización del ev
 1. Implementar transferencias reales de tokens usando estándares como SEP-41
 2. Agregar sistema de recompensas automáticas
 3. Implementar validación de contratos de tokens
-4. Añadir eventos de logging para auditoría
-5. Implementar sistema de roles (admin, moderador, etc.)
-6. Agregar funcionalidad de cancelación de eventos
-7. Implementar reembolsos automáticos para eventos fallidos
+
 
 ## Ejemplo de Uso
 
