@@ -198,12 +198,6 @@ Donante → donate(donor, id, amount) → Validaciones → Actualización del ev
 4. **Límites de Gas**: No considera optimizaciones de gas para vectores grandes
 5. **Permisos**: No implementa roles o permisos granulares
 
-## Mejoras Sugeridas
-
-1. Implementar transferencias reales de tokens usando estándares como SEP-41
-2. Agregar sistema de recompensas automáticas
-3. Implementar validación de contratos de tokens
-
 
 ## Ejemplo de Uso
 
